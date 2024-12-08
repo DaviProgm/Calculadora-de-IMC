@@ -30,7 +30,7 @@ function App() {
         setResultado(Valorimc.toFixed(2))
         setLoading(false)
         if (Valorimc < 18.5) {
-          setMenssagem("você está desnutrido")
+          setMenssagem("você está Com magreza")
         }
         else if (Valorimc >= 18.5 && Valorimc <= 24.9) {
           setMenssagem("você está no peso ideal")
