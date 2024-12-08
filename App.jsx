@@ -42,7 +42,7 @@ function App() {
           setMenssagem("você está com obesidade grau 1")
         }
         else if (Valorimc >= 35 && Valorimc <= 39.9) {
-          setMenssagem("você está obesidade grau 2")
+          setMenssagem("você está com obesidade grau 2")
         }
         else  {
           setMenssagem("você está com obesidade grau 3 ")
